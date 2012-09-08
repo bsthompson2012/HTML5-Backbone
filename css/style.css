@@ -86,7 +86,7 @@ input[type="checkbox"] { vertical-align: bottom; *vertical-align: baseline; }
     Author: Jonathan Verrecchia
    =================================================== */
 
-body{ font:16px/24px Helvetica, Helvetica Neue, Arial, sans-serif; }
+body{ font:16px/24px Tahoma, Helvetica Neue, Arial, sans-serif; }
 
 .wrapper{
 	width:90%;
